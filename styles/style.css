@@ -108,13 +108,6 @@ body {
 
 @font-face {
   font-family: 'BentonSansRegular';
-  src: url('font/Benton-Sans-Regular_WesternEurope/b36a47f4-8876-40cb-b31a-d02f16a88d78-2.eot?#iefix');
-  src: url('font/Benton-Sans-Regular_WesternEurope/b36a47f4-8876-40cb-b31a-d02f16a88d78-2.eot?#iefix')
-      format('eot'),
-    url(font/Benton-Sans-Regular_WesternEurope/b36a47f4-8876-40cb-b31a-d02f16a88d78-3.woff?1365084163)
-      format('woff'),
-    url(font/Benton-Sans-Regular_WesternEurope/b36a47f4-8876-40cb-b31a-d02f16a88d78-1.ttf?1365084163)
-      format('truetype'),
-    url('font/Benton-Sans-Regular_WesternEurope/b36a47f4-8876-40cb-b31a-d02f16a88d78-4.svg#1287ca7a-3ce7-40b7-9612-061d4c793f04')
-      format('svg');
+  src: url(font/Benton-Sans-Regular/BentonSans-Regular.ttf)
+      format('truetype');
 }
