@@ -2,7 +2,7 @@ html,
 body {
   background-color: #ffffff;
   margin: 0;
-  font-family: BentonSansRegular;
+  /* font-family: ; */
 }
 
 .header_wrapper {
@@ -106,8 +106,8 @@ body {
   min-height: 100%;
 }
 
-@font-face {
-  font-family: 'BentonSansRegular';
-  src: url(font/Benton-Sans-Regular/BentonSans-Regular.ttf)
+/* @font-face {
+  font-family: ;
+  src: url(font/)
       format('truetype');
-}
+} */
